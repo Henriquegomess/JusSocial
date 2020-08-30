@@ -1,5 +1,7 @@
 # JusSocial - Equipe Apolo
 
+# Compilação de informação jurídica em aplicativo de acessibilidade para os cidadãos terem acesso as noções básicas do direito de acordo com seus interesses.
+
 Problem
 1- A falta de transparência nas informações jurídicas para a população brasileira;
 2-  Acessibilidade jurídica para as pessoas com deficiência (PCD);
