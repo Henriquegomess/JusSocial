@@ -1,5 +1,8 @@
 # JusSocial - Equipe Apolo
 
+![Group 42](https://user-images.githubusercontent.com/58234356/91668342-1be53e00-eada-11ea-912f-f27a5e1ade8e.png)
+
+
 # Compilação de informação jurídica em aplicativo de acessibilidade para os cidadãos terem acesso as noções básicas do direito de acordo com seus interesses.
 
 Problem
